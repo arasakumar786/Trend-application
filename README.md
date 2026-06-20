@@ -1,1 +1,6 @@
-github url for infra provision using the terraform code: https://github.com/arasakumar786/infra-code.git
+🔗 Project Links
+Infrastructure (Terraform Code):
+https://github.com/arasakumar786/infra-code.git
+
+Application URL:
+http://trendshop.arasakumar.in:3000/
